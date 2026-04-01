@@ -3,7 +3,7 @@ import React from "react";
 const Connectwithme = () => {
   return (
     <>
-    <div className="container pb-5">
+    <div id="connect" className="container pb-5">
       {/* HEADING */}
       <div className="top d-flex justify-content-center my-4">
         <div className="text-center">

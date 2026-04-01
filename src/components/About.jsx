@@ -22,8 +22,12 @@ const About = () => {
             </p>
           </div>
           <div className="aboutBtn d-flex gap-3 py-4">
-            <Link className="btn btn-primary">Contact Me</Link>
-            <Link className="btn btn-outline-light">Resume</Link>
+            <a className="btn btn-primary" href="#connect">
+              Contact Me
+            </a>
+            <Link className="btn btn-outline-light" to="/resume">
+              Resume
+            </Link>
           </div>
         </div>
 
