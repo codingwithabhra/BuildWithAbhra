@@ -6,7 +6,7 @@ export const projects = [
     technologies: ["React", "Node", "Express", "MongoDB", "Bootstrap"],
     hostedLink: "https://myshoppingapp-five.vercel.app/",
     githubLink: "https://github.com/codingwithabhra/mobileapp",
-    imageUrl: "https://cdn.dribbble.com/userupload/15137445/file/original-96418859e6d5e6591b5c29b09c4af49e.jpg",
+    imageUrl: "https://res.cloudinary.com/dajxlecl6/image/upload/v1780471053/mobile_mock-up-2_i6hnin.jpg",
   },
   {
     id: 2,
@@ -15,17 +15,17 @@ export const projects = [
     technologies: ["React", "Node", "Express", "MongoDB", "Chart.js", "Bootstrap"],
     hostedLink: "https://anvaya-dashboard.vercel.app/",
     githubLink: "https://github.com/codingwithabhra/anvaya-dashboard",
-    imageUrl: "https://images.klipfolio.com/website/public/ddc46e49-6f50-4336-b025-e488ab13cc43/product-sales-dashboard.png",
+    imageUrl: "https://res.cloudinary.com/dajxlecl6/image/upload/v1780469583/LeadFlow-app_gnoq5v.jpg",
 
   },
   {
     id: 3,
-    title: "Events",
-    description: "A meetup application enabling users to explore events with detailed information (schedule, duration, fees, dress code, age limit,  speakers, and agenda.",
+    title: "TaskForge App",
+    description: "TaskForge is a full-stack task management and team collaboration platform that enables users to create projects, assign tasks, manage deadlines, and organize work with tags.",
     technologies: ["React", "Node", "Express", "MongoDB", "Bootstrap"],
-    hostedLink: "https://meetup-app-6xvh.vercel.app/",
-    githubLink: "https://github.com/codingwithabhra/meetup-app",
-    imageUrl: "https://fueler.io/storage/users/timeline_image/1686059939-n6khfjnxwq5zl56ii35w.png",
+    hostedLink: "https://taskforge-xi.vercel.app/",
+    githubLink: "https://github.com/codingwithabhra/taskforge",
+    imageUrl: "https://res.cloudinary.com/dajxlecl6/image/upload/v1780468874/Untitled-1_oxrypo.jpg",
 
   }
 ];
