@@ -25,7 +25,7 @@ const About = () => {
             <a className="btn btn-primary" href="#connect">
               Contact Me
             </a>
-            <Link className="btn btn-outline-light" to="/resume">
+            <Link className="btn btn-outline-light" to="https://res.cloudinary.com/dajxlecl6/image/upload/v1780473602/AbhraPatra_Resume_cmcxmx.jpg">
               Resume
             </Link>
           </div>
