@@ -3,7 +3,7 @@ import { projects } from "./projectsData";
 
 const Projects = () => {
   return (
-    <div className="container pb-2">
+    <div id="projects" className="container pb-2">
       {/* HEADING */}
       <div className="top d-flex justify-content-center">
         <div className="text-center">

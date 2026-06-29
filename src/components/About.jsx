@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const About = () => {
   return (
-    <div className="container py-5">
+    <div id="about" className="container py-5">
       <div className="row py-5">
         {/* left part */}
         <div className="left col-lg-8 text-white">
@@ -25,9 +25,14 @@ const About = () => {
             <a className="btn btn-primary" href="#connect">
               Contact Me
             </a>
-            <Link className="btn btn-outline-light" to="https://res.cloudinary.com/dajxlecl6/image/upload/v1780473602/AbhraPatra_Resume_cmcxmx.jpg">
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn btn-outline-light"
+              href="https://drive.google.com/drive/folders/1AHRYkYAWIUuOnXWPjCjhmvLxf3lwL1tO?usp=drive_link"
+            >
               Resume
-            </Link>
+            </a>
           </div>
         </div>
 

@@ -5,7 +5,7 @@ import { SiMongodb } from "react-icons/si";
 
 const Technologies = () => {
   return (
-    <div className="container pb-5">
+    <div id="techstack" className="container pb-5">
       {/* HEADING */}
       <div className="top d-flex justify-content-center my-4">
         <div className="text-center">

@@ -22,7 +22,7 @@ export const projects = [
     id: 3,
     title: "TaskForge",
     description: "TaskForge is a full-stack task management and team collaboration platform that enables users to create projects, assign tasks, manage deadlines, and organize work with tags.",
-    technologies: ["React", "Node", "Express", "MongoDB", "Bootstrap"],
+    technologies: ["React", "Node", "Express", "MongoDB", "Bootstrap", "JWT Authentication"],
     hostedLink: "https://taskforge-xi.vercel.app/",
     githubLink: "https://github.com/codingwithabhra/taskforge",
     imageUrl: "https://res.cloudinary.com/dajxlecl6/image/upload/v1780468874/Untitled-1_oxrypo.jpg",
